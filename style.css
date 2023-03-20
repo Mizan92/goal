@@ -1,0 +1,19 @@
+.x{
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.39);
+}
+.our-hope{
+    text-align: center;
+    width:100%;
+}
+table{
+    text-align:  center;
+    width: 100%;
+    cell-padding: 10px 15px;
+}
+.day{
+    background-color: rgba(255, 0, 0, 0.719);
+}
+td{
+    background-color: rgba(128, 128, 128, 0.39);
+}
